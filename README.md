@@ -51,7 +51,8 @@ A clusterização com K=4 permitiu a identificação clara de quatro personas es
 
 ---
 
-💻 Como Executar o Projeto
+## 💻 Como Executar o Projeto
+
 O projeto foi desenvolvido para ser executado de forma totalmente nuvem e automatizada, sem a necessidade de configurações locais, downloads manuais ou chaves de API.
 
 Para visualizar o relatório técnico e executar o código ponta a ponta, basta clicar no botão abaixo:
