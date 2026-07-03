@@ -51,12 +51,13 @@ A clusterização com K=4 permitiu a identificação clara de quatro personas es
 
 ---
 
-## 💻 Como Executar o Projeto
+💻 Como Executar o Projeto
+O projeto foi desenvolvido para ser executado de forma totalmente nuvem e automatizada, sem a necessidade de configurações locais, downloads manuais ou chaves de API.
 
-1. Clone este repositório executando o comando abaixo no seu terminal:
-   ```bash
-   git clone [https://github.com/thiagomacielbarbosa/MVP_PUCRIO_Machine_Learning_-_Analytics.git](https://github.com/thiagomacielbarbosa/MVP_PUCRIO_Machine_Learning_-_Analytics.git)
-   ```
-2. Abra o arquivo `.ipynb` no Google Colab ou no seu ambiente Jupyter local.
-3. Certifique-se de ter as bibliotecas instaladas (`pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `plotly`).
-4. Execute todas as células sequencialmente. O script fará o download do dataset automaticamente via requisição web.
+Para visualizar o relatório técnico e executar o código ponta a ponta, basta clicar no botão abaixo:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/thiagomacielbarbosa/MVP_PUCRIO_Machine_Learning_-_Analytics/blob/main/MVP_PUCRIO_Machine_Learning_%26_Analytics.ipynb)
+
+Nota: Ao abrir o ambiente do Google Colab, vá até o menu superior e clique em Ambiente de Execução > Executar tudo (ou utilize o atalho Ctrl + F9). O script fará o download e processamento do dataset de mais de 500 mil linhas automaticamente.
+
+---
